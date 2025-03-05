@@ -1,12 +1,12 @@
 <div align="center">
 
-<img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-0.png">
+<img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-1.webp">
 
-<img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-2.png">
+<img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-2.webp">
 
-<img alt="preview-3" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-3.png">
+<img alt="preview-3" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-3.webp">
 
-<img alt="preview-4" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-4.png">
+<img alt="preview-4" src="https://raw.githubusercontent.com/Leorrc/sistema-distrito-dos-galpoes/master/images/preview-4.webp">
 
 
 </div>
